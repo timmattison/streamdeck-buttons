@@ -8,6 +8,8 @@ github.com/timmattison/streamdeck v0.0.0-20240104144951-f9cb5e868beb h1:6kqKwIXy
 github.com/timmattison/streamdeck v0.0.0-20240104144951-f9cb5e868beb/go.mod h1:mpoHPh8Abj+wN26PDXqKUYjMDYqwkmsOI0d2xeIT4WM=
 github.com/timmattison/streamdeck v0.0.0-20240104151008-d8912f561c99 h1:Pt/XlIkKDi+ZElZ2ZMTClmmbrrVGtBVMr+kKyCszsmg=
 github.com/timmattison/streamdeck v0.0.0-20240104151008-d8912f561c99/go.mod h1:mpoHPh8Abj+wN26PDXqKUYjMDYqwkmsOI0d2xeIT4WM=
+github.com/timmattison/streamdeck v0.0.0-20240104151305-6ee3f6f26d17 h1:yTjRgo+FBVVUfi/fFf7+LoPRbVzf+QACsYYTtF5RAys=
+github.com/timmattison/streamdeck v0.0.0-20240104151305-6ee3f6f26d17/go.mod h1:mpoHPh8Abj+wN26PDXqKUYjMDYqwkmsOI0d2xeIT4WM=
 golang.org/x/image v0.14.0 h1:tNgSxAFe3jC4uYqvZdTr84SZoM1KfwdC9SKIFrLjFn4=
 golang.org/x/image v0.14.0/go.mod h1:HUYqC05R2ZcZ3ejNQsIHQDQiwWM4JBqmm6MKANTp4LE=
 golang.org/x/image v0.15.0 h1:kOELfmgrmJlw4Cdb7g/QGuB3CvDrXbqEIww/pNtNBm8=

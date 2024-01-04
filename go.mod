@@ -4,7 +4,7 @@ go 1.21.5
 
 require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
-	github.com/timmattison/streamdeck v0.0.0-20240104151008-d8912f561c99
+	github.com/timmattison/streamdeck v0.0.0-20240104151305-6ee3f6f26d17
 )
 
 require (
