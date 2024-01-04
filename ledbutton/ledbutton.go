@@ -11,9 +11,9 @@ import (
 	"io/ioutil"
 	"log"
 
-	sd "github.com/dh1tw/streamdeck"
 	"github.com/golang/freetype"
 	"github.com/golang/freetype/truetype"
+	sd "github.com/timmattison/streamdeck"
 )
 
 //go:embed assets

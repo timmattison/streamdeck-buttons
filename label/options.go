@@ -3,7 +3,7 @@ package label
 import (
 	"image/color"
 
-	sd "github.com/dh1tw/streamdeck"
+	sd "github.com/timmattison/streamdeck"
 )
 
 // Text is a functional option for providing the initial text on the label.
@@ -28,7 +28,6 @@ func BgColor(c color.Color) func(*Label) {
 	}
 }
 
-//
 func Callback(cb func(int, sd.BtnState)) func(*Label) {
 	return func(l *Label) {
 		l.cb = cb
